@@ -2,10 +2,6 @@
   box-sizing: border-box;
 }
 
-body {
-  max-width: 1000px;
-}
-
 /* FEATURED SECTION BEGINS */
 
 
@@ -120,6 +116,21 @@ attraction {
   grid-template-columns: 33.3% 33.3% 33.3%;
   margin-right: 0px;
   width: 1000px;
+}
+
+.dim{
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 120px;
+  box-sizing: border-box;
+}
+
+.kep{
+  margin-top: 10px;
+  padding: 20px;
+}
+.pic_co{
+  margin: 20px;
 }
 
 .sub_top1 {
