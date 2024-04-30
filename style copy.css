@@ -2,8 +2,6 @@
   box-sizing: border-box;
 }
 
-
-
 /* FEATURED SECTION BEGINS */
 
 
@@ -118,6 +116,14 @@ attraction {
   grid-template-columns: 33.3% 33.3% 33.3%;
   margin-right: 0px;
   width: 1000px;
+}
+
+.dim{
+  display: flex;
+  justify-content: space-around;
+  box-sizing: border-box;
+  margin: 5px;
+  padding: 30px;
 }
 
 .sub_top1 {
