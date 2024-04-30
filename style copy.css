@@ -120,10 +120,13 @@ attraction {
 
 .dim{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  margin: 20px 120px;
   box-sizing: border-box;
-  margin: 5px;
-  padding: 30px;
+}
+
+.pic_co{
+  margin: 20px;
 }
 
 .sub_top1 {
