@@ -125,6 +125,10 @@ attraction {
   box-sizing: border-box;
 }
 
+.kep{
+  margin-top: 10px;
+  padding: 20px;
+}
 .pic_co{
   margin: 20px;
 }
