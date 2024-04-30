@@ -9,178 +9,7 @@ body {
   margin-top: 20px;
 }
 
-/* FEATURED SECTION BEGINS */
 
-
-.special_offers {
-  color: #05073c;
-  font-size: 1.5rem;
-  font-weight: 900;
-}
-.special {
-  display: flex;
-}
-
-.pics_date {
-  display: flex;
-  
-}
-
-.date {
-  padding: 20px;
-  width: 250px;
-}
-.date div {
-  margin-bottom: 10px;
-}
-.date span {
-  font-weight: 800;
-  font-size: 1.2rem;
-}
-
-.last {
-  color: #eb662b;
-}
-.discount {
-  color: #05073c;
-}
-
-.featured {
-  width: 200px;
-  margin-right: 20px;
-}
-
-.featured_trips {
-  color: #05073c;
-  font-size: 1.5rem;
-  font-weight: 900;
-}
-
-.picz img {
-  border-radius: 5%;
-  margin-bottom: 0px;
-}
-.paris {
-  margin-left: 50px;
-  margin-top: 10px;
-}
-
-.centipede {
-  margin-top: 15px;
-  justify-content: center;
-  width: 300px;
-  margin-left: 20px;
-  color: #05073c;
-}
-
-.digit {
-  color: #05073c;
-  align-items: center;
-  margin-left: 80px;
-}
-.digit span {
-  text-align: center;
-}
-
-.price {
-  width: 300px;
-  display: flex;
-  gap: 100px;
-  margin-left: 30px;
-  margin-top: 30px;
-  color: #05073c;
-}
-
-.featuredd {
-  display: flex;
-}
-
-.featured2 {
-  width: 200px;
-  margin-left: 120px;
-}
-
-.price2 {
-  gap: 50px;
-  width: 300px;
-  display: flex;
-  margin-top: 30px;
-  color: #05073c;
-  margin-left: 30px;
-}
-/* FEATURED SECTION ENDS */
-/* ATTRACTION SECTION BEGINS */
-
-
-
-
-attraction {
-  color: #05073c;
-  font-size: 1.5rem;
-  font-weight: 900;
-}
-.top_attraction {
-  display: grid;
-  grid-template-columns: 33.3% 33.3% 33.3%;
-  margin-right: 0px;
-  width: 1000px;
-}
-
-.top1 {
-}
-
-.pic_co {
-  display: flex;
-}
-
-.colo {
-  margin-left: 30px;
-  margin-top: 5px;
-  color: #05073c;
-}
-
-.colo div h3 {
-  margin-bottom: 10px;
-}
-/* ATTRACTION SECTION ENDS */
-/* FLEXIBLE SECTION BEGINS */
-
-.thing {
-  max-width: 1000px;
-}
-
-.keep div{
-  margin-left: 300px;
-  j
-
-
-}
-
-section .keep {
-
-  margin-top: 200px;
-  background-image: url(background_image.png);
-  width: 100%;
-  height:500px;
-  
-}
-
-.keep div h1 {
-  margin-bottom: 30px;
-  text-align: center;
-  width: 40%;
-  font-size: 2.5rem;
-  font-weight: 900;
-  color:#fff;
-}
-
-.keep div p {
-  width: 40%;
-   color:#fff;
-}
-
-
-/* ATTRACTION SECTION ENDS */
 /* TRAVEL SECTION BEGINS */
 .Travel{
   display: grid;
@@ -310,16 +139,16 @@ color: #05073C;}
 
 /* CUSTOMER REVIEW SECTION BEGINS */
 
-.customer_review{
+/* .customer_review{
 
   background-image: url(pictures/Section\ →\ image.png);
   z-index: -1;
 
-}
+} */
 
 
 /* WHY CHOOSE US */
-
+/* 
 .why_choose{
   margin-top:;
   width: 100%;
@@ -339,5 +168,5 @@ width: 100%;
   color: #05073C;
 }
 
- .reasons{ 
+ .reasons{  */
 
