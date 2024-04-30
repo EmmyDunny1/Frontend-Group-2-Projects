@@ -23,6 +23,7 @@ body {
 
 .pics_date {
   display: flex;
+  
 }
 
 .date {
@@ -178,4 +179,165 @@ section .keep {
    color:#fff;
 }
 
+
+/* ATTRACTION SECTION ENDS */
+/* TRAVEL SECTION BEGINS */
+.Travel{
+  display: grid;
+  grid-template-columns:45% 55%;
+  margin-top: 50px;
+
+
+  background-image: url(pictures/image.png);;
+  background-repeat: none;
+  width: 100%;
+  height:650px;
+}
+
+
+
+.make
+{
+  margin-top: 120px;
+  padding-bottom: ;
+  padding-left: 70px;
+  padding-right: 15px;
+  color: #05073C;
+}
+
+.make div h1{font-weight: 200px;
+font-size: 2rem;
+}
+
+
+.make, .spanz{font-size: 12px;
+padding-right: 90px;
+padding-top: 0.2px;}
+
+
+.explore{margin-top: 60px;
+background-color: #EB662B;
+
+height: 45px;
+width: 150px;
+border-radius: 10px;
+align-items: center;
+  padding-top: 9px;}
+
+ .explore span{
+  text-align: center;
+  font-size: 12px;
+  padding-left: 25px;
+  color:#fff;
+  font-weight: 100;
+  letter-spacing: 0.5px;
+
+}
+
+.statistics {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  margin-top: 100px;
+
+}
+
+
+
+ 
+
+ .boxes{ align-items: center;
+justify-content: center;
+padding-left: 40px;
+background-color: #fff;
+height: 200px;
+width: 240px;
+
+}
+
+.boxes div img{
+  padding-left: 40px;
+  padding-top: 20px;
+  width: 100px;
+  
+
+}
+
+
+.boxes div h1 {
+  padding-left: 40px;
+  color: #EB662B;
+  font-weight: 0px;
+  text-align;
+
+}
+
+.boxes div span {padding-left: 20px;
+color: #05073C;}
+
+
+.boxes_right{
+  margin-top: 105px;
+  align-items: center;
+justify-content: center;
+padding-left: 40px;
+background-color: #fff;
+height: 200px;
+width: 240px;
+}
+
+.boxes_right div img{
+  padding-left: 50px;
+  padding-top: 20px;
+  width: 100px;
+  
+
+}
+
+.boxes_right div h1 {
+  padding-left: 50px;
+  color: #EB662B;
+  font-weight: 0px;
+
+}
+
+
+
+.boxes_right div span {padding-left: 20px;
+color: #05073C;}
+
+/* TRAVEL SECTION ENDS */
+
+
+/* CUSTOMER REVIEW SECTION BEGINS */
+
+.customer_review{
+
+  background-image: url(pictures/Section\ →\ image.png);
+  z-index: -1;
+
+}
+
+
+/* WHY CHOOSE US */
+
+.why_choose{
+  margin-top:;
+  width: 100%;
+  display: flex;
+
+}
+
+
+.why_choose div{
+  justify-content: center;
+align-items: center;
+margin-left: 50%;
+width: 100%;
+}
+.why_choose div h1{
+
+  color: #05073C;
+}
+
+ .reasons{ 
 
